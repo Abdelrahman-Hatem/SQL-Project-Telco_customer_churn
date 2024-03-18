@@ -29,6 +29,9 @@
 These tables provide a rich source of information about each customer, including personal details, geographical location, service subscriptions, and satisfaction metrics. Additionally, the data includes churn-related attributes such as Churn Score, Churn Category, CLTV, and Churn Reason.
 I gated 	the dataset from IBM Telco Customer Churn, and before delving into the interesting world of data analysis, I used a specific Power Query feature in Excel to combine multiple sheets. Next, I performed data cleaning procedures, removing columns that I considered unnecessary for the analytical project. I performed all data analysis using SQL (MySQL Workbench 8.0 CE), and all the SQL codes will be provided below. The visualizations were designed with Excel.
 
+**You can know more about the dataset here:** 
+
+[Telco customer churn (11.1.3+)](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113)
 
 ##  The Uml Diagram:
 ![image](https://github.com/Abdelrahman-Hatem/Excel-Project-Telco_customer_churn/assets/60587162/76cb6a1c-25c2-40cf-ab45-1cc1908256f9)
