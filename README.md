@@ -4,6 +4,10 @@
 
 - Telco companies face a significant challenge in reducing customer churn, which leads to substantial costs and revenue loss. Customer churn, or attrition, refers to customers leaving the service for various reasons. Understanding and mitigating churn is crucial for maintaining a healthy customer base and ensuring business growth. This case study aims to identify key drivers of customer churn for a fictional telco company operating in California during Q3.
 
+[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+
+
 ## Objective
 
 - The primary objective of this analysis is to identify factors influencing customer churn, enabling the telco company to develop targeted retention strategies. By leveraging demographic, location, service-related, and satisfaction data, insights into customer behavior and preferences will be gained to reduce churn rates.
@@ -36,6 +40,7 @@ I gated 	the dataset from IBM Telco Customer Churn, and before delving into the 
 
 ## Tools Used:
 - MySQL Workbench: Used for database management, including schema design, query writing, and data manipulation.
+- Excel: Used for creating additional charts and graphs to complement the data analysis. 
 
 ##  The Uml Diagram:
 ![image](https://github.com/Abdelrahman-Hatem/Excel-Project-Telco_customer_churn/assets/60587162/76cb6a1c-25c2-40cf-ab45-1cc1908256f9)
