@@ -33,6 +33,10 @@ I gated 	the dataset from IBM Telco Customer Churn, and before delving into the 
 
 [Telco customer churn (11.1.3+)](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113)
 
+
+## Tools Used:
+- MySQL Workbench: Used for database management, including schema design, query writing, and data manipulation.
+
 ##  The Uml Diagram:
 ![image](https://github.com/Abdelrahman-Hatem/Excel-Project-Telco_customer_churn/assets/60587162/76cb6a1c-25c2-40cf-ab45-1cc1908256f9)
 
